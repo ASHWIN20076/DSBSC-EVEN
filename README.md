@@ -27,7 +27,7 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/736bef01-c500-4225-85e4-92c4e2fdf692" />
 
 Program
-
+```
 clc;
 clear;
 close;
@@ -69,7 +69,7 @@ plot(t, dsb_sc)
 title("DSB-SC Modulated Signal")
 xlabel("Time")
 ylabel("Amplitude")
-
+```
 Output Graph
 
 <img width="1919" height="1199" alt="Screenshot 2026-02-05 115208" src="https://github.com/user-attachments/assets/dc566b74-5f05-44a7-b30d-aa93c80e2df4" />
